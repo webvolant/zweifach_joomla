@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template" client="site">
+    <name>barkalovlab</name>
+    <creationDate>2015-08-29</creationDate>
+    <author>Barkalov Anton</author>
+    <authorEmail>barkalov_anton@mail.ru</authorEmail>
+    <authorUrl>barkalovlab.com</authorUrl>
+    <copyright>Copyright (C) 2014 barkalovlab.com</copyright>
+    <version>1.0</version>
+    <description>Barkalov Lab theme</description>
+    <files>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+		<filename>component.php</filename>
+        <filename>error.php</filename>
+		<filename>favicon.ico</filename>
+        <folder>css</folder>
+		<folder>html</folder>
+		<folder>bootstrap</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<folder>fonts</folder>
+        <folder>scroll</folder>
+    </files>
+    <positions>
+        <position>topmenu</position>
+        <position>mainmenu</position>
+        <position>position0</position>
+        <position>position1</position>
+        <position>breadcrumb</position>
+        <position>footer</position>
+		<position>footer-menu</position>
+		<position>kontakt</position>
+		<position>topslider</position>
+        <position>search</position>
+        <position>after_content</position>
+        <position>service</position>
+        <position>position5</position>
+    </positions>
+</extension>
