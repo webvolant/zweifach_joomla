@@ -60,7 +60,11 @@ $app = JFactory::getApplication();
 
         <div class="span12">
             <div class="row">
-                <div class="span11"></div>
+                <div class="span1"></div>
+
+
+
+
                 <div class="menutop navbar span11">
                     <div class="navbar-inner">
                         <jdoc:include type="modules" name="topmenu" style="none" />
